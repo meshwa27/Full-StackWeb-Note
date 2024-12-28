@@ -2,7 +2,7 @@ import React from 'react'
 import {Route,Routes} from 'react-router-dom'
 import Homepage from './pages/Homepage'
 import SignIn from './pages/SignIn'
-import SignUp from './pages/Signup'
+import SignUp from "./pages/SignUp"
 import NotesPage from './pages/NotesPage'
 import NotesCreate from './pages/NotesCreate'
 import NotesDetail from './pages/NotesDetail'
